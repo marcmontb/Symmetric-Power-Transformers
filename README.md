@@ -1,2 +1,2 @@
-# -Adaptive-Symmetric-Power-Transformers
-A theoretical twist on the Symmetric Power Transformer (SPT) idea.
+# Adaptive Symmetric Power Transformers
+The Adaptive Symmetric Power Transformer (ASPT) is a theoretical twist on the Symmetric Power Transformer (SPT) idea. The original SPT, introduced by Manifest AI, made transformers more efficient by using a power function instead of the usual softmax, and later formulating them as Linear Transformers using Symmetric Power Embeddings. Our ASPT concept takes this a step further. We're exploring what happens if we let the power change based on the input, rather than keeping it fixed. This could help the model adapt better to different parts of a sequence, potentially capturing more complex patterns. In this write-up, we'll look at how this idea might work, what challenges it brings, and what it could mean for language processing tasks.
